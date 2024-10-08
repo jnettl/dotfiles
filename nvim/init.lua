@@ -1,3 +1,3 @@
-require("jnett")
-require("plugin_specs")
-
+require("plugins")
+require("remap")
+require("set")
